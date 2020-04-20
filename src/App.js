@@ -36,7 +36,7 @@ class App extends Component {
             href="https://www.amazon.com/Project-Leadership-Communication-Samuel-Malachowsky/dp/1732378908/ref=sr_1_1?keywords=malachowsky+book&qid=1580486292&sr=8-1"
             target="blank"
           >
-            Buy My Book
+            Buy My Book or else or else!
           </a>
           <img src={triangle} className="App-triangle" id="triangle" alt="triangle" />
         </header>
